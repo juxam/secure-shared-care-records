@@ -19,7 +19,7 @@ The purpose is to make sure the manuscript is developed from organised evidence 
 | Article Section | Main Purpose | Supporting Files | Notes |
 |---|---|---|---|
 | Abstract | Summarise the article after drafting | article-1-draft.md | Write last |
-| 1. Introduction | Introduce the problem and central argument | docs/project-charter.md, docs/research-scope.md, policy-context/evidence-matrix.csv | Use this section to explain the tension between clinical availability and privacy/security proportionality |
+| 1. Introduction | Introduce the problem and central argument | docs/problem-statement.md, docs/project-charter.md, docs/research-scope.md, policy-context/evidence-matrix.csv | Use this section to explain the tension between clinical availability and privacy/security proportionality |
 | 2. Background: Shared Patient Records and Direct Care | Explain shared records, direct care and cross-provider access | policy-context/evidence-matrix.csv, references/reading-log.md | Use NHS Shared Care Records, GP Connect, Summary Care Record and Single Patient Record sources |
 | 3. Policy, Governance and Legal Context | Explain UK/NHS governance, UK GDPR, Caldicott, DPIA, DSPT and clinical safety | policy-context/evidence-matrix.csv | Use official sources first |
 | 4. Security and Privacy Problem Framing | Explain why wider access creates new risks | references/reading-log.md, threat-models/risk-register-template.csv | Link EHR security/privacy literature to the specific shared-record problem |
