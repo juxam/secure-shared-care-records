@@ -1,0 +1,10 @@
+﻿# Citation File Format
+
+cff-version: 1.2.0
+title: Secure Shared Care Records
+message: If you use this repository, please cite it using the metadata from this file.
+type: software
+authors:
+  - family-names: Ameh
+    given-names: Jude
+repository-code: https://github.com/juxam/secure-shared-care-records
