@@ -23,8 +23,8 @@ To investigate the security and privacy implications of cross-provider access to
 - data-flow-models/ contains data-flow models and data dictionaries.
 - 	hreat-models/ contains STRIDE, LINDDUN and risk-register artefacts.
 - stakeholder-study/ contains interview and ethics preparation materials.
-- ramework/ contains the emerging security and privacy framework.
-- 	oolkit/ contains reusable templates and synthetic examples.
+- framework/ contains the emerging security and privacy framework.
+- 	toolkit/ contains reusable templates and synthetic examples.
 - papers/ contains article outlines and manuscript development folders.
 
 ## Data Notice
